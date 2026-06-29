@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ashmithanarmula.github.io/user_management_Dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,7 +16,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^8.1.0"
+    "@vitejs/plugin-react": "^4.7.0",
+    "gh-pages": "^6.0.0",
+    "vite": "^7.3.6"
   }
 }
